@@ -1,0 +1,11 @@
+spring:
+    datasource:
+      jdbcUrl: jdbc:postgresql://localhost:5432/student_bd
+      username: postgres
+      password: Dima2003
+      driver-class-name: org.postgresql.Driver
+
+
+
+
+
